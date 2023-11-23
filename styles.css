@@ -7,5 +7,31 @@
 .content{
 	background-color:black;
 	color:white;
-	
+    padding: 3%;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo_name{
+    font-size: 40px;
+    font-weight: 700;
+}
+.link-boxes{
+    display: flex;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    justify-content: space-between;
+}
+
+.links a{
+    text-decoration: none;
+    color:white;
+
 }

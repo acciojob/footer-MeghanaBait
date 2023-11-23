@@ -1,1 +1,11 @@
 /* your code here */
+*{
+	margin: 0;
+	padding:0;
+}
+
+.content{
+	background-color:black;
+	color:white;
+	
+}

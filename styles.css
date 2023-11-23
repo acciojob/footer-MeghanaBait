@@ -4,6 +4,13 @@
 	padding:0;
 }
 
+.media-icons{
+	display:flex;
+	justify-content:space-between;
+}
+.medei-icons a{
+	margin-right:3%;
+}
 .content{
 	background-color:black;
 	color:white;
